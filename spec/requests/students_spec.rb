@@ -52,7 +52,7 @@ RSpec.describe "Students", type: :request do
     # context 'with query params' do
     #   it 'returns students whose first or last name matches the query' do
     #     get '/students?name=kirby'
-
+    #
     #     expect(response.body).to include_json([
     #       { first_name: 'Vanessa', last_name: 'Kirby', grade: 85 }
     #     ])
